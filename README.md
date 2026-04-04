@@ -1,2 +1,2 @@
-# python-practical_-project
+# python-practical_project
 Python
